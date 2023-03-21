@@ -1,0 +1,17 @@
+C:\Users\rchan\source\repos\20220922_Rebote\bin\Debug\net6.0-windows\20220922_Rebote.exe
+C:\Users\rchan\source\repos\20220922_Rebote\bin\Debug\net6.0-windows\20220922_Rebote.deps.json
+C:\Users\rchan\source\repos\20220922_Rebote\bin\Debug\net6.0-windows\20220922_Rebote.runtimeconfig.json
+C:\Users\rchan\source\repos\20220922_Rebote\bin\Debug\net6.0-windows\20220922_Rebote.dll
+C:\Users\rchan\source\repos\20220922_Rebote\bin\Debug\net6.0-windows\20220922_Rebote.pdb
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\20220922_Rebote.vbproj.AssemblyReference.cache
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\_20220922_Rebote.Form1.resources
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\20220922_Rebote.vbproj.GenerateResource.cache
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\20220922_Rebote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\20220922_Rebote.AssemblyInfoInputs.cache
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\20220922_Rebote.AssemblyInfo.vb
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\20220922_Rebote.vbproj.CoreCompileInputs.cache
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\20220922_Rebote.dll
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\refint\20220922_Rebote.dll
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\20220922_Rebote.pdb
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\20220922_Rebote.genruntimeconfig.cache
+C:\Users\rchan\source\repos\20220922_Rebote\obj\Debug\net6.0-windows\ref\20220922_Rebote.dll

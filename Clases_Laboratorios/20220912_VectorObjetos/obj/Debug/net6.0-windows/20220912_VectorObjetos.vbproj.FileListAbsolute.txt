@@ -1,0 +1,17 @@
+C:\Users\rchan\source\repos\20220912_VectorObjetos\bin\Debug\net6.0-windows\20220912_VectorObjetos.exe
+C:\Users\rchan\source\repos\20220912_VectorObjetos\bin\Debug\net6.0-windows\20220912_VectorObjetos.deps.json
+C:\Users\rchan\source\repos\20220912_VectorObjetos\bin\Debug\net6.0-windows\20220912_VectorObjetos.runtimeconfig.json
+C:\Users\rchan\source\repos\20220912_VectorObjetos\bin\Debug\net6.0-windows\20220912_VectorObjetos.dll
+C:\Users\rchan\source\repos\20220912_VectorObjetos\bin\Debug\net6.0-windows\20220912_VectorObjetos.pdb
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\20220912_VectorObjetos.vbproj.AssemblyReference.cache
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\_20220912_VectorObjetos.Form1.resources
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\20220912_VectorObjetos.vbproj.GenerateResource.cache
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\20220912_VectorObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\20220912_VectorObjetos.AssemblyInfoInputs.cache
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\20220912_VectorObjetos.AssemblyInfo.vb
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\20220912_VectorObjetos.vbproj.CoreCompileInputs.cache
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\20220912_VectorObjetos.dll
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\refint\20220912_VectorObjetos.dll
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\20220912_VectorObjetos.pdb
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\20220912_VectorObjetos.genruntimeconfig.cache
+C:\Users\rchan\source\repos\20220912_VectorObjetos\obj\Debug\net6.0-windows\ref\20220912_VectorObjetos.dll

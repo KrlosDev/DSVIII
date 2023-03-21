@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "20220829_UsuarioAdivina/1.0.0": {
+        "runtime": {
+          "20220829_UsuarioAdivina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20220829_UsuarioAdivina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

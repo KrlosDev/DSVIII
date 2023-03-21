@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>20221003_BaseDatos</id>
+    <version>1.0.0</version>
+    <authors>20221003_BaseDatos</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\rchan\source\repos\20221003_BaseDatos\bin\Debug\net6.0-windows\20221003_BaseDatos.runtimeconfig.json" target="lib\net6.0-windows7.0\20221003_BaseDatos.runtimeconfig.json" />
+    <file src="C:\Users\rchan\source\repos\20221003_BaseDatos\bin\Debug\net6.0-windows\20221003_BaseDatos.dll" target="lib\net6.0-windows7.0\20221003_BaseDatos.dll" />
+  </files>
+</package>

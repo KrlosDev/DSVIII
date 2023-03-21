@@ -1,0 +1,17 @@
+C:\Users\rchan\source\repos\20220912_MatrizBotones\bin\Debug\net6.0-windows\20220912_MatrizBotones.exe
+C:\Users\rchan\source\repos\20220912_MatrizBotones\bin\Debug\net6.0-windows\20220912_MatrizBotones.deps.json
+C:\Users\rchan\source\repos\20220912_MatrizBotones\bin\Debug\net6.0-windows\20220912_MatrizBotones.runtimeconfig.json
+C:\Users\rchan\source\repos\20220912_MatrizBotones\bin\Debug\net6.0-windows\20220912_MatrizBotones.dll
+C:\Users\rchan\source\repos\20220912_MatrizBotones\bin\Debug\net6.0-windows\20220912_MatrizBotones.pdb
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\20220912_MatrizBotones.vbproj.AssemblyReference.cache
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\_20220912_MatrizBotones.Form1.resources
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\20220912_MatrizBotones.vbproj.GenerateResource.cache
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\20220912_MatrizBotones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\20220912_MatrizBotones.AssemblyInfoInputs.cache
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\20220912_MatrizBotones.AssemblyInfo.vb
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\20220912_MatrizBotones.vbproj.CoreCompileInputs.cache
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\20220912_MatrizBotones.dll
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\refint\20220912_MatrizBotones.dll
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\20220912_MatrizBotones.pdb
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\20220912_MatrizBotones.genruntimeconfig.cache
+C:\Users\rchan\source\repos\20220912_MatrizBotones\obj\Debug\net6.0-windows\ref\20220912_MatrizBotones.dll

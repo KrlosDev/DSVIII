@@ -1,0 +1,12 @@
+C:\Users\rchan\source\repos\20221020_1_Libreria\bin\Debug\net6.0\20221020_1_Libreria.deps.json
+C:\Users\rchan\source\repos\20221020_1_Libreria\bin\Debug\net6.0\20221020_1_Libreria.dll
+C:\Users\rchan\source\repos\20221020_1_Libreria\bin\Debug\net6.0\20221020_1_Libreria.pdb
+C:\Users\rchan\source\repos\20221020_1_Libreria\obj\Debug\net6.0\20221020_1_Libreria.vbproj.AssemblyReference.cache
+C:\Users\rchan\source\repos\20221020_1_Libreria\obj\Debug\net6.0\20221020_1_Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rchan\source\repos\20221020_1_Libreria\obj\Debug\net6.0\20221020_1_Libreria.AssemblyInfoInputs.cache
+C:\Users\rchan\source\repos\20221020_1_Libreria\obj\Debug\net6.0\20221020_1_Libreria.AssemblyInfo.vb
+C:\Users\rchan\source\repos\20221020_1_Libreria\obj\Debug\net6.0\20221020_1_Libreria.vbproj.CoreCompileInputs.cache
+C:\Users\rchan\source\repos\20221020_1_Libreria\obj\Debug\net6.0\20221020_1_Libreria.dll
+C:\Users\rchan\source\repos\20221020_1_Libreria\obj\Debug\net6.0\refint\20221020_1_Libreria.dll
+C:\Users\rchan\source\repos\20221020_1_Libreria\obj\Debug\net6.0\20221020_1_Libreria.pdb
+C:\Users\rchan\source\repos\20221020_1_Libreria\obj\Debug\net6.0\ref\20221020_1_Libreria.dll
